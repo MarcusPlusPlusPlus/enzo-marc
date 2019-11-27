@@ -33,7 +33,7 @@
 - [GET] `/timeline` : view all the gazouilles
     - No payload
 
-## Q&A
+## How does it work ?
 
 - How do you get the gazouilles ? _You can access all the gazouilles from the timeline.`_
 - How does you create a gazouille ? _From a basic html form. A gazouille is made from a username and a block of text._
@@ -45,6 +45,7 @@ Python 3.8.0, Flask==1.1.1
 
 ## Possible improvements
 
+- Check TOP-10 owasp security risks
 - Use another way to store gazouilles.
 - Use an account to send gazouilles.
 - Being able to modify gazouilles our own gazouilles.
