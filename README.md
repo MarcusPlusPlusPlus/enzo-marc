@@ -1,6 +1,6 @@
 # flgaz-python
 
-Check the end result here on [pythonanywhere](http://marcusplusplus.pythonanywhere.com) ! 
+Check the end result on [pythonanywhere](http://marcusplusplus.pythonanywhere.com) ! 
 
 ## Setup and user guide
 
