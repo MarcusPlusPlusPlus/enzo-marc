@@ -39,10 +39,10 @@
 - How does you create a gazouille ? _From a basic html form. A gazouille is made from a username and a block of text._
 - How does it stores the gazouilles ? _The gazouilles are stored inside a CSV file. Ths CSV file is updated when a gazouille is created_
 
-## Possible improvements
+## Used tools in this project
 
-Python 3.8.0, Flask==1.1.1
-
+Used tools : Python 3.8.0, Flask==1.1.1
+Flask is a WSGI lightweight web framework for python.
 ## Possible improvements
 
 - Check TOP-10 owasp security risks
