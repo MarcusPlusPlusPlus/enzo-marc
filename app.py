@@ -1,8 +1,11 @@
-from flask import request, render_template, redirect, url_for
-import config.server as SERVER
+from flask import Flask, request, render_template, redirect, url_for
+from flask_alchemy import SQLAlchemy
 
+app = Flask(__name__)
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'marcusplusplus.mysql.pythonanywhere-services.com:3306/marcusplusplus$enzo-marc.db'
 
-app = SERVER.app
+db = SQLAlchemy(app)
+db.create_all()
 
 @app.route('/')
 def home():
