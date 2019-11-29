@@ -2,6 +2,11 @@
 
 Check the end result on [pythonanywhere](http://marcusplusplus.pythonanywhere.com) ! 
 
+##  Team members
+
+- Enzo Marcone
+- Marc Jeannet
+
 ## Setup and user guide
 
 - `git clone https://github.com/MarcusPlusPlusPlus/flgaz-python.git`
