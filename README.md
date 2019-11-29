@@ -43,13 +43,15 @@ Check the end result on [pythonanywhere](http://marcusplusplus.pythonanywhere.co
 
 ## Used tools in this project
 
-Used tools : Python 3.8.0, Flask==1.1.1
+Used tools : Python 3.8.0, Flask==1.1.1 and Flask-SQLAlchemy==2.4.1
 Flask is a WSGI lightweight web framework for python.
 ## Possible improvements
 
-- Check TOP-10 owasp security risks
-- Use another way to store gazouilles.
-- Use an account to send gazouilles.
+- Check TOP-10 owasp security risks.
+- Manage spam gazouilles.
+- auto block keywords or gazouilles.
+- Being able to timeout specific user. 
+- Have a proper project structure.
 - Being able to modify gazouilles our own gazouilles.
 - Search for specific gazouilles.
 - Send different type of gazouille (text, link, media).
